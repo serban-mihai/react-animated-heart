@@ -4,6 +4,7 @@
 	"description": "Simple Twitter-like animated heart",
 	"main": "dist/index.js",
 	"private": false,
+	"type": "module",
 	"repository": "git@github.com:ShaunLWM/react-animated-heart.git",
 	"author": "ShaunLWM",
 	"license": "MIT",
